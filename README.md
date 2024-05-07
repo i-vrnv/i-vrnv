@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @i-vrnv
+# 👋 Hi, I’m Ignat
 - 👀 I’m a software engineer with a solid background in the administration of systems and networks.
 - 🌱 I’m currently learning how to build reactive systems.
 - 👨‍💻 Most of the time I'm writing on Kotlin and Java. But I also love Go and Python.
